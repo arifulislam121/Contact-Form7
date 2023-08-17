@@ -1,0 +1,14 @@
+<!----contact form 7 not valid tips ---->
+	
+.wpcf7-not-valid-tip {
+    color: #dc3232;
+    font-size: 17px;
+    font-weight: normal;
+    display: none;
+    
+}
+.wpcf7-form input.wpcf7-not-valid {
+    border-color: rgba(212,121,121,1);
+    background: rgba(165,10,6,1);
+    color: rgba(212,121,121,1);
+}
